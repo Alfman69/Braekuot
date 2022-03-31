@@ -28,7 +28,7 @@ namespace Breakout
         //int spelarPosX = skärmBredd / 2 - 250;
         //int spelarPosY = 1050;
         int hastighet = 10;
-
+        ggggg
         //TILL BOLL
         Texture2D boll;
         Rectangle bollRekt;
