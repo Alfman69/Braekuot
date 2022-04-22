@@ -414,15 +414,15 @@ namespace Breakout
             {
                 if (i == 0)
                 {
-                    _spriteBatch.Draw(vitRekt, spelarLista[i], Color.Red);
+                    _spriteBatch.Draw(vitRekt, spelarLista[i], Color.White);
                 }
                 if (i == 1)
                 {
-                    _spriteBatch.Draw(vitRekt, spelarLista[i], Color.Green);
+                    _spriteBatch.Draw(vitRekt, spelarLista[i], Color.White);
                 }
                 if (i == 2)
                 {
-                    _spriteBatch.Draw(vitRekt, spelarLista[i], Color.Blue);
+                    _spriteBatch.Draw(vitRekt, spelarLista[i], Color.White);
                 }
             }
         }
